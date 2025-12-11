@@ -28,5 +28,30 @@ Coffee sales data is recorded across multiple transactions, but raw tables make 
 - Which customers (card numbers) contribute the most revenue
 - Revenue trend across different dates
 - Which coffee types dominate top revenue days
- Dashboard interaction - <a href="">View Dashboard </a>
+ Dashboard interaction - <a href="https://github.com/shahalimurmu0-pixel/Coffee-Sales-Analysis-/blob/main/Screenshot%202025-12-11%20233629.png">View Dashboard </a>
+
+ ## Process
+- Data Cleaning in Excel → removed duplicates, formatted columns (Date, Time, Payment Type, Coffee Name, Money), and handled missing values
+- Pivot Tables → summarized sales data to calculate total revenue, average revenue per transaction, frequency of coffee types sold, and top revenue days
+- Charts → created line chart, bar chart, and pie chart to visualize KPIs such as coffee type frequency, revenue distribution, and payment methods
+- Slicers → added interactive filters for coffee type, payment type, and date to make the dashboard dynamic
+- Dashboard Design → combined charts, slicers, and KPI cards into a single interactive Excel dashboard for clear insights
+
+## Dashboard
+<img width="1803" height="760" alt="Screenshot 2025-12-11 233629" src="https://github.com/user-attachments/assets/a8b14184-6cf2-4ac3-afe6-68c1a996ae54" />
+
+## Insights
+- Latte and Cappuccino are the coffees people buy the most
+- Latte brings in the highest money overall
+- Most customers pay by card instead of cash
+- Fridays and Saturdays make the most sales
+- A few regular customers spend the most money
+- Sales grow steadily over time, with some days showing big jumps
+
+## Conclusion
+The Coffee Sales dashboard makes it easy to see which products earn the most, how customers pay, and when sales peak. By turning raw data into clear visuals, the project helps identify top‑selling coffees, loyal customers, and busy days. This gives a quick and useful view of business performance.
+
+
+
+
 
