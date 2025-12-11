@@ -1,4 +1,4 @@
-# Coffee-Sales-Insights (Interactive Dashboard using Exce)
+# Coffee-Sales-Insights (Interactive Dashboard using Excel)
 
 ##  Summary
 An interactive dashboard built with Excel to analyze coffee sales, revenue, and customer payment trends.
